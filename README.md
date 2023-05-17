@@ -2,6 +2,7 @@
 # Домашнее задание к занятию "`Prometheus`" - `Колобов Михаил`
 
 ### Задание 1
+Установите Prometheus.
 
 #### Требования к результату
 - [ ] Прикрепите к файлу README.md скриншот systemctl status prometheus, где будет написано: prometheus.service — Prometheus Service Netology Lesson 9.4 — [Ваши ФИО]
