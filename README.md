@@ -45,6 +45,7 @@
 
 1. ![04-01](https://github.com/Mikhail-2023/9-4-Prometheus/blob/main/screen/04-01.PNG)
 2. ![04-02](https://github.com/Mikhail-2023/9-4-Prometheus/blob/main/screen/04-02.PNG)
+3. ![04-03](https://github.com/Mikhail-2023/9-4-Prometheus/blob/main/screen/04-03.PNG)
 
 ---
 
